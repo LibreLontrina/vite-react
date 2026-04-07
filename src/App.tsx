@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import './App.css'
-import LandingPage from './pages/padrao/landing-page'
+import './App.css';
+import LandingPage from './pages/padrao/landing-page';
 import TermosUso from './pages/padrao/termos-uso';
 
 export default function App() {
