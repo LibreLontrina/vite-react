@@ -1,5 +1,5 @@
 
-import './termos-uso.css';
+import '../termos-uso/termos-uso.css';
 
 export default function TermosUso() {
   return (
