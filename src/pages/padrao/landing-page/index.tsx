@@ -13,12 +13,12 @@ import img_aplicativo from '/aplicativo-movel.png';
 export default function LandingPage() {
   return (
     
-    <body>
+    <body className="landing-page">
       	<section className="hero fade-section">
         <h1>Bem-vindo ao <span>Libre</span></h1>
         <p>Explore, leia e compartilhe com liberdade.</p>
         <br/>
-        <a href="../cadastro-usuario" className="button-home">Comece agora</a>
+        <a href="../cadastrar" className="button-home">Comece agora</a>
       	</section>
 
       	<br/>
